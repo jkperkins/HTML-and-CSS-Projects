@@ -1,0 +1,8 @@
+<p>
+  <b>Here's an image:</b><br>
+  <img src="example.jpg" alt="A beautiful sunset over a calm lake">
+</p>
+<p>
+  <i>Isn't it breathtaking?</i><br>
+  <u>The colors are so vibrant.</u>
+</p>
