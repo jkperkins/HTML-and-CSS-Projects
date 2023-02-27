@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Gallery</title>
+  <link rel="stylesheet" href="Gallerystyle.css" rel="stylesheet" type="text/css">  
+</head>
+<body>
+  <div class="gallery">
+    <div class="gallery-item">
+      <img src="thumb\thumb_1.jpg" alt="Image 1">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_2.jpg" alt="Image 2">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_3.jpg" alt="Image 3">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_4.jpg" alt="Image 4">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_5.jpg" alt="Image 5">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_6.jpg" alt="Image 6">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_7.jpg" alt="Image 7">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_8.jpg" alt="Image 8">
+    </div>
+    <div class="gallery-item">
+      <img src="thumb\thumb_9.jpg" alt="Image 9">
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
