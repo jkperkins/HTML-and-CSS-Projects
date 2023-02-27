@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Cats</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		header {
+			background-color: #F5DEB3;
+			padding: 20px;
+			text-align: center;
+			font-size: 2em;
+			color: #333;
+		}
+		nav {
+			background-color: #333;
+			color: #FFF;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			padding: 20px;
+		}
+		nav ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: flex;
+		}
+		nav li {
+			margin-left: 20px;
+		}
+		nav a {
+			color: #FFF;
+			text-decoration: none;
+			font-size: 1.2em;
+		}
+		main {
+			padding: 20px;
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: space-between;
+			max-width: 1000px;
+			margin: 0 auto;
+		}
+		h1 {
+			font-size: 1.5em;
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+			margin-bottom: 20px;
+		}
+		p {
+			line-height: 1.5;
+			margin-bottom: 20px;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>About Cats</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="https://www.youtube.com/watch?v=_FqPnuoQgoM.html">Video</a></li>
+		</ul>
+	</nav>
+	<main>
+		<img src="CatImagesandvideos\cat.jpg" alt="A cute cat">
+		<h1>About Cats</h1>
+		<p>Cats are adorable animals that make great pets. They are known for their playful and independent nature, and are often found napping in cozy spots around the house.</p>
+		<p>If you're considering adopting a cat, make sure you have the time and resources to care for them properly. Cats require regular feeding, grooming, and playtime, as well as trips to the veterinarian for checkups and vaccinations.</p>
+	</main>
+</body>
+</html>
